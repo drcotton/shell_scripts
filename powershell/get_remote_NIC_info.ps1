@@ -1,0 +1,1 @@
+Get-WmiObject -ComputerName $Computer Win32_NetworkAdapterConfiguration
